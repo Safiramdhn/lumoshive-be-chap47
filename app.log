@@ -1,0 +1,36 @@
+{"L":"INFO","T":"2024-12-10T14:20:14.043+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T14:20:51.643+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T14:24:00.657+0800","M":"Logger initialized successfully"}
+{"L":"ERROR","T":"2024-12-10T14:25:00.030+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field Items: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:25:00.032+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field Items: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"INFO","T":"2024-12-10T14:27:49.927+0800","M":"Logger initialized successfully"}
+{"L":"ERROR","T":"2024-12-10T14:28:50.014+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:28:50.016+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:29:50.004+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:29:50.009+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:30:50.020+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:30:50.022+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"INFO","T":"2024-12-10T14:31:43.633+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T14:37:12.277+0800","M":"Logger initialized successfully"}
+{"L":"ERROR","T":"2024-12-10T14:38:12.016+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:38:12.016+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:39:12.004+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:39:12.004+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:40:12.006+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:40:12.007+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:41:12.002+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:41:12.004+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:42:12.005+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:42:12.006+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItem: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"INFO","T":"2024-12-10T14:48:09.630+0800","M":"Logger initialized successfully"}
+{"L":"ERROR","T":"2024-12-10T14:49:09.004+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItems: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:49:09.005+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItems: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:50:09.002+0800","M":"Error getting orders","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItems: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"ERROR","T":"2024-12-10T14:50:09.002+0800","M":"Failed to export order reports","error":"invalid field found for struct golang-chap47/models.OrderDetail's field OrderItems: define a valid foreign key for relations or implement the Valuer/Scanner interface"}
+{"L":"INFO","T":"2024-12-10T14:52:36.028+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:01:17.991+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:07:37.908+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:11:05.274+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:22:06.230+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:26:34.696+0800","M":"Logger initialized successfully"}
+{"L":"INFO","T":"2024-12-10T15:28:08.625+0800","M":"Logger initialized successfully"}
